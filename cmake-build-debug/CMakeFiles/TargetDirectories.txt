@@ -1,0 +1,3 @@
+/home/miji-ustad/CLionProjects/Single_Linked_List/cmake-build-debug/CMakeFiles/Single_Linked_List.dir
+/home/miji-ustad/CLionProjects/Single_Linked_List/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miji-ustad/CLionProjects/Single_Linked_List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
